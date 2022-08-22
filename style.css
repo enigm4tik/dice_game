@@ -1,0 +1,39 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  .field {
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 200px;
+    margin-bottom: 20px;
+    width: 150px;
+  }
+  
+  .player {
+    display: inline-block;
+  }
+  
+  .third {
+    width: 30%;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
+  .hidden_text {
+    display:none;
+  }
+  
+  .field_table {
+    font-size: 36pt;
+  }
+  
+  td:hover {
+    background: yellow;
+  }
+  
+  .hidden {
+    display: none;
+  }

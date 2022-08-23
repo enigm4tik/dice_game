@@ -30,7 +30,7 @@ html, body {
     font-size: 36pt;
   }
   
-  td:hover {
+  .column_1:hover {
     background: yellow;
   }
   
